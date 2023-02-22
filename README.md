@@ -31,9 +31,13 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :man_student: I'm graduated in Economics and now studying Development of Systems to enhance my technical skills at software development process.
 
-- :zap: In my free time, I solve problems on code camps and read tech articles. I'm passionate for AI and Machine Learning with Python, and look forward to work with that some day.
+- :zap: In my free time, I solve problems on code camps and read tech articles. I'm passionate for AI and Machine Learning, and look forward to work with that some day.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/ricardo-soares-ribeiro-8a460b125/))
+- :mailbox:How to reach me: 
+  <a href="https://www.linkedin.com/in/ricardo-soares-ribeiro-8a460b125/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+
 
 ---
 
@@ -46,7 +50,6 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="Mysql" alt="Mysql" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgres" alt="Postgres" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Vs" alt="Vs" width="40" height="40"/>&nbsp;
 </div>
 
